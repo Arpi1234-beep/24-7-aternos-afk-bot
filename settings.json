@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "0pumpkin-ia4m.aternos.me",
-    "port": 60900,
+    "ip": "pumpkin2.aternos.me",
+    "port": 25459,
     "version": "1.20.1",
     "try-creative": false
   },
